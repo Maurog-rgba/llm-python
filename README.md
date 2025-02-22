@@ -4,3 +4,5 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 
 pip install matplot lib numpy pylzma ipykernel jupyter
+
+pip install torch transformers datasets tokenizers
